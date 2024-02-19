@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on **A Cryptocurrency Site**
 
-🌱 I’m currently learning **Phoenix, Prisma, Prometheus, Docker, Angular, Electron**
+🌱 I’m currently learning **GitLab CI, Docker**
 
 💬 Ask me about **Java, Vue.JS, UML, SQL, RDF**
 
