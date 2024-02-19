@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza Ikiou</h1>
 
-<h3 align="center">Searching for Alternance</h3>
-
 <br>
 
 <div align="center">
