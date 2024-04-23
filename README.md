@@ -4,7 +4,7 @@
 
 <div align="center">
 
-🔭 I’m currently working on **A system administation project**
+🔭 I’m currently working on **a system administation project**
 
 🌱 I’m currently learning **GitLab CI, Docker, Ansible**
 
