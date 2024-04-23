@@ -31,13 +31,13 @@
 <div align="center">
 	<img src="https://skillicons.dev/icons?i=java,javascript,typescript"/>
 	<br>
-    <img src="https://skillicons.dev/icons?i=vue,html,css,bootstrap"/>
-    <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb"/>
-    <br>
-    <img src="https://skillicons.dev/icons?i=idea,vscode,postman"/>
-    <br>
-    <img src="https://skillicons.dev/icons?i=heroku,linux,gitlab,github,git" />
+	<img src="https://skillicons.dev/icons?i=vue,vuetify,html,css,bootstrap"/>
+	<br>
+	<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,prisma"/>
+	<br>
+	<img src="https://skillicons.dev/icons?i=docker,ansible,gitlab,github,git" />
+	<br>
+	<img src="https://skillicons.dev/icons?i=idea,webstorm,phpstorm,vscode,postman"/>
 </div>
 
 <hr>
