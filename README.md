@@ -4,9 +4,9 @@
 
 <div align="center">
 
-🔭 I’m currently working on **A Cryptocurrency Site**
+🔭 I’m currently working on **A system administation project**
 
-🌱 I’m currently learning **GitLab CI, Docker**
+🌱 I’m currently learning **GitLab CI, Docker, Ansible**
 
 💬 Ask me about **Java, Vue.JS, UML, SQL, RDF**
 
