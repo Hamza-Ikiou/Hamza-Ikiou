@@ -4,9 +4,9 @@
 
 <div align="center">
 
-🔭 I’m currently working on **a system administation project**
+🔭 I’m currently working on **a cloud administation project**
 
-🌱 I’m currently learning **GitLab CI, Docker, Ansible**
+🌱 I’m currently learning **Ansible, Terraform, Azure**
 
 💬 Ask me about **Java, Vue.JS, UML, SQL, RDF**
 
@@ -29,15 +29,15 @@
 <br>
 
 <div align="center">
-	<img src="https://skillicons.dev/icons?i=java,javascript,typescript"/>
+	<img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,qt"/>
 	<br>
-	<img src="https://skillicons.dev/icons?i=vue,vuetify,html,css,bootstrap"/>
+	<img src="https://skillicons.dev/icons?i=vue,vuetify,vite,html,css,bootstrap"/>
 	<br>
-	<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,prisma"/>
+	<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgresql,mongodb,prisma"/>
 	<br>
-	<img src="https://skillicons.dev/icons?i=docker,ansible,gitlab,github,git" />
+	<img src="https://skillicons.dev/icons?i=docker,ansible,terraform,azure,gitlab,github" />
 	<br>
-	<img src="https://skillicons.dev/icons?i=idea,webstorm,phpstorm,vscode,postman"/>
+	<img src="https://skillicons.dev/icons?i=idea,webstorm,phpstorm,pycharm,vscode,postman"/>
 </div>
 
 <hr>
