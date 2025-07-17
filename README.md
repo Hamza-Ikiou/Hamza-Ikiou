@@ -4,11 +4,11 @@
 
 <div align="center">
 
-🔭 I’m currently working on **a cloud administation project**
+🔭 I’m currently working on **a kubernetes cluster**
 
-🌱 I’m currently learning **Ansible, Terraform, Azure**
+🌱 I’m currently learning **Ansible, Kubernetes**
 
-💬 Ask me about **Java, Vue.JS, UML, SQL, RDF**
+💬 Ask me about **Java, Vue.JS, Ansible, Kubernetes, Terraform**
 
 </div>
 
@@ -35,9 +35,9 @@
 	<br>
 	<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgresql,mongodb,prisma"/>
 	<br>
-	<img src="https://skillicons.dev/icons?i=docker,ansible,terraform,azure,gitlab,github" />
-	<br>
 	<img src="https://skillicons.dev/icons?i=idea,webstorm,phpstorm,pycharm,vscode,postman"/>
+	<br>
+	<img src="https://skillicons.dev/icons?i=docker,ansible,terraform,kubernetes,aws,azure,gitlab,github" />
 </div>
 
 <hr>
